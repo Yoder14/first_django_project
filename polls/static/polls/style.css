@@ -1,0 +1,12 @@
+li a {
+    color: green;
+    size: 100
+    font-family: "Times New Roman", Times, serif;
+}
+body {
+    background-image: url("https://cdn.dribbble.com/users/623211/screenshots/2035295/box.gif");
+    background-repeat: no-repeat;
+    background-position: 50%10%;
+    background-size: 75%;
+	background-color:  #000000;
+}
